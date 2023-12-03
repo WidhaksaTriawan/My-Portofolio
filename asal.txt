@@ -2,4 +2,5 @@ fullsatack develop
 sukses
 kaya
 pintar
-hebat
+gym
+fd
